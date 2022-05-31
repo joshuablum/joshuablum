@@ -1,15 +1,14 @@
-### Hi there, I'm Joshua (he/him) 👋
+### Hi there 👋
 
-I do support, learning content, and marketing [Statamic](https://statamic.com) 💜 and also run a small development and design studio called [byblum](https://byblum.com) 🧡.
+I'm Joshua (he/him), full-stack developer and designer. Nice to meet you!
 
-#### Languages
+I do support, content, and marketing at [Statamic](https://statamic.com) 💜 and also run a small development and design studio called [byblum](https://byblum.com) 🧡.
+
+#### Languages 
 - PHP
-- JavaScript
+- JavaScript / TypeScript
 - Swift
 - Objective-C
-- German
-- English
-- A little Dutch, Spanish, and French
 
 #### Preferred stack
 - [Statamic](https://statamic.com)
@@ -18,8 +17,9 @@ I do support, learning content, and marketing [Statamic](https://statamic.com) �
 - [Tailwind CSS](https://tailwindcss.com)
 - [Vue.js](https://vuejs.org)
 - [Inertia.js](https://inertiajs.com)
+- [Nuxt](https://nuxtjs.org)
 
-Organizer of [Full Stack Cologne](https://fullstack.cologne) and Co-organizer of [Cologne.js](https://www.meetup.com/cologne-js/)
+Organizer of [Full Stack Cologne](https://fullstack.cologne) and Co-organizer of [Cologne.js](https://www.meetup.com/cologne-js/).
 
 You can reach me on [Twitter](https://twitter.com/_joshuablum) or shoot me an [email](mailto:github@joshuablum.de).
 

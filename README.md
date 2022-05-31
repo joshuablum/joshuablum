@@ -2,7 +2,16 @@
 
 I do support, learning content, and marketing [Statamic](https://statamic.com) 💜 and also run a small development and design studio called [byblum](https://byblum.com) 🧡.
 
-#### Preferred stack:
+#### Languages
+- PHP
+- JavaScript
+- Swift
+- Objective-C
+- German
+- English
+- A little Dutch, Spanish, and French
+
+#### Preferred stack
 - [Statamic](https://statamic.com)
 - [Alpine.js](https://alpinejs.dev)
 - [Laravel](https://laravel.com)

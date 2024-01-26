@@ -2,13 +2,14 @@
 
 I'm Joshua (he/him), full-stack developer and designer. Nice to meet you!
 
-I do support, content, and marketing at [Statamic](https://statamic.com) 💜 and also run a small development and design studio called [byblum](https://byblum.com) 🧡.
+I do technical support, docs, content, marketing, and work on the core product at [Statamic](https://statamic.com) 💜 while running a small development and design studio called [byblum](https://byblum.com) 🧡.
 
 #### Languages 
 - PHP
 - JavaScript / TypeScript
-- Swift
-- Objective-C
+- Swift / Objective-C
+- Lua
+- Rust
 
 #### Preferred stack
 - [Statamic](https://statamic.com)
@@ -17,9 +18,7 @@ I do support, content, and marketing at [Statamic](https://statamic.com) 💜 an
 - [Tailwind CSS](https://tailwindcss.com)
 - [Vue.js](https://vuejs.org)
 - [Inertia.js](https://inertiajs.com)
-- [Nuxt](https://nuxtjs.org)
+- [Astro](https://astro.build)
 
-Organizer of [Full Stack Cologne](https://fullstack.cologne) and Co-organizer of [Cologne.js](https://www.meetup.com/cologne-js/).
-
-You can reach me on [Twitter](https://twitter.com/_joshuablum) or shoot me an [email](mailto:github@joshuablum.de).
+You can reach me on [Mastodon](https://mastodon.social/@joshuablum) or shoot me an [email](mailto:github@joshuablum.de).
 
